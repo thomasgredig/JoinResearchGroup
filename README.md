@@ -1,6 +1,6 @@
 # Join Research Group
 
-How to Join the Gredig Molecular Thin Film Laboratory
+How to Join the [Gredig Molecular Thin Film Laboratory](https://web.csulb.edu/~tgredig/) 
 
 
 ## Checklist
@@ -15,6 +15,7 @@ Basic research in the [Gredig Molecular Thin Film Lab](https://web.csulb.edu/~tg
 - read about ethics and proper conduct (see [below](#ethics-and-conduct))
 - submit a photo for the [Lab Group](https://web.csulb.edu/~tgredig/group.html) page
 - acknowledge and agree on the research lab responsibilities, expectations and duties (form from Dr. Gredig)
+- discuss mentor-mentee compact and setup regular meetings
 - agree on the research questions / proposal / tasks
 - get a bound notebook and record observations
 - create a comprehensive PPTx file (see [below](#comprehensive-powerpoint-file))
@@ -107,10 +108,6 @@ Joining an experimental condensed matter research group means that you can learn
 - design components, construct apparati, 3D print, fix instruments, calibrate and maintain equipment
 
 
-## Research Group - Exercises
+## Exercises
 
-Solve the following exercises:
 
-1. Find all iron phthalocyanine related articles published in Phys Rev B in the last 20 years and cite them properly -> see [Solution](Zotero-Citations.md)
-
-2. Perform a linear fit on 100 data files and plot the slope as a function of the data number. -> see [Solution](Linear-Fit.md)
