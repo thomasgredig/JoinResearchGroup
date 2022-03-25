@@ -1,6 +1,6 @@
 # Join Research Group
 
-How to Join the [Gredig Molecular Thin Film Laboratory](https://web.csulb.edu/~tgredig/) 
+How to Join the [Gredig Molecular Thin Film Laboratory](https://web.csulb.edu/~tgredig/)
 
 
 ## Checklist
@@ -51,7 +51,9 @@ Read specific articles to expand your vocabulary and learn about specific exampl
 
 Take notes when reading the article; look at the motivation (first paragraph), and the message that the article carries; so that you can refer to previous data on which you build forward.
 
+## Posters
 
+Use the [PosterDown Rmd package](https://github.com/brentthorne/posterdown) to create posters using R language; it will generate HTML posters, that you can print to PDF, although some colors may not reproduce well. Alternatively the [Postr package](https://wytham.rbind.io/post/making-a-poster-in-r/) allows direct export to PDF. 
 
 ## Analysis Software
 
@@ -109,5 +111,3 @@ Joining an experimental condensed matter research group means that you can learn
 
 
 ## Exercises
-
-
